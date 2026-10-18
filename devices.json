@@ -1,0 +1,54 @@
+{
+  "8307652777": {
+    "unique_device_id": "Google|edda6369-e8fe-4820-b6bc-d43f047130ea",
+    "brand": "Realme",
+    "model": "RMX3700",
+    "gpu_renderer": "Mali-G710",
+    "system_software": "Android OS 14 / API-34",
+    "screen_width": 1440,
+    "screen_height": 3200,
+    "screen_dpi": "409",
+    "memory": 5665,
+    "processor_details": "ARM64 FP ASIMD AES | 2770 | 9",
+    "client_ip": "203.131.80.229"
+  },
+  "8307400930": {
+    "unique_device_id": "Google|2e948859-7247-4224-b0df-c592f5215e78",
+    "brand": "OnePlus",
+    "model": "CPH2451",
+    "gpu_renderer": "Adreno (TM) 740",
+    "system_software": "Android OS 13 / API-33",
+    "screen_width": 1440,
+    "screen_height": 3200,
+    "screen_dpi": "346",
+    "memory": 3949,
+    "processor_details": "ARM64 FP ASIMD AES | 2728 | 12",
+    "client_ip": "210.117.153.206"
+  },
+  "8307652778": {
+    "unique_device_id": "Google|a1ae6a3a-2449-4e1e-bbd1-f6950f5a163c",
+    "brand": "Samsung",
+    "model": "SM-G998B",
+    "gpu_renderer": "Adreno (TM) 660",
+    "system_software": "Android OS 12 / API-31",
+    "screen_width": 720,
+    "screen_height": 2400,
+    "screen_dpi": "336",
+    "memory": 5112,
+    "processor_details": "ARM64 FP ASIMD AES | 3123 | 6",
+    "client_ip": "205.175.111.36"
+  },
+  "8307652779": {
+    "unique_device_id": "Google|2f07f258-cc29-49cc-b745-ceb7d75fe10d",
+    "brand": "Xiaomi",
+    "model": "2201122G",
+    "gpu_renderer": "Adreno (TM) 730",
+    "system_software": "Android OS 13 / API-33",
+    "screen_width": 720,
+    "screen_height": 3200,
+    "screen_dpi": "343",
+    "memory": 2908,
+    "processor_details": "ARM64 FP ASIMD AES | 2605 | 6",
+    "client_ip": "112.137.235.136"
+  }
+}
